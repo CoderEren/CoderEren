@@ -2,14 +2,14 @@
 
 🌱 I’m currently learning electronics and Arduino programming.
 
-[![Eren's github stats](https://github-readme-stats.vercel.app/api?username=CoderEren&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Eren's github stats](https://github-readme-stats.vercel.app/api?username=CoderEren&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 You can find me on [![Twitter][1.2]][1], or on [![Instagram][2.2]][2].
 
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png
-[2.2]: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png
+[2.2]: https://i.pinimg.com/originals/0f/1e/cd/0f1ecd724117e27390873d3e42b24571.jpg
 
 <!-- Links to your social media accounts -->
 
