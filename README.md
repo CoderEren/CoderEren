@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 I'm Eren, a passionate programmer and robotics developer.
-<ul>
-  <li>🌱 I’m currently learning electronics and Arduino programming to build robotics projects.</li>
-</ul>
 
 [![Eren's github stats](https://github-readme-stats.vercel.app/api?username=CoderEren&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
