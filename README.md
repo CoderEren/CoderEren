@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python OpenCV and Arduino programming**
 
-- 👯 I’m looking to collaborate on **social projects**
+- 👯 I’m looking to collaborate on **projects**
 
 - 📫 How to reach me **erengeridonmez@hotmail.com**
 
