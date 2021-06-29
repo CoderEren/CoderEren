@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Eren Geridonmez</h1>
-<h3 align="center">A Robotics/Automation Developer</h3>
+<!--
+<h3 align="center">A Robotics/Automation Developer</h3>-->
 
-- 🔭 I’m currently working on **a Computer Vision algorithm**
+<!-- 🔭 I’m currently working on **a Computer Vision algorithm**-->
 
-- 🌱 I’m currently learning **Python OpenCV and Arduino programming**
+<!-- 🌱 I’m currently learning **Python OpenCV and Arduino programming**-->
 
-- 👯 I’m looking to collaborate on **projects**
+<!-- 👯 I’m looking to collaborate on **projects**-->
 
-- 📫 How to reach me **erengeridonmez@hotmail.com**
+- 📫 You can reach me via **erengeridonmez@hotmail.com**
 
 [![Eren's github stats](https://github-readme-stats.vercel.app/api?username=CoderEren&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
